@@ -8,7 +8,7 @@ Artificial Intelligence and Data Science
 * 📫  Email to contact me at [yashmalhotra787@gmail.com](mailto:yashmalhotra787@gmail.com)
 * 🧠  I'm currently learning Natural Language Programming, Neural Networks & Machine Learning
 * 🌱  I'm open to collaborating on Artifical Intelligence, Deep Learning and Data Science
-* 😄  I’m working on self driving autmoation project
+* 😄  I’m working on Self Driving Automation Project
 ### Skills
 
 
